@@ -1,3 +1,8 @@
+# Table Of Contents
+[Zulip Flutter](./README.md#zulip-flutter-beta)
+[Using Zulip](./README.md#using-zulip)
+[Setting up](./README.md#setting-up)
+
 # Zulip Flutter (beta)
 
 A Zulip client for Android and iOS, using Flutter.
@@ -90,14 +95,12 @@ Two specific points to expand on:
 
 ## Getting started in developing this beta app
 
-### Setting up
+   * ### Setting up
 
-1. Follow the [Flutter installation guide](https://docs.flutter.dev/get-started/install)
-   for your platform of choice.
-2. Switch to the latest version of Flutter by running `flutter channel main`
-   and `flutter upgrade` (see [Flutter version](#flutter-version) below).
-3. Ensure Flutter is correctly configured by running `flutter doctor`.
-4. Start the app with `flutter run`, or from your IDE.
+      1. Follow the [Flutter installation guide](https://docs.flutter.dev/get-started/install) for your platform of choice.
+      2. Switch to the latest version of Flutter by running `flutter channel main` and `flutter upgrade` (see [Flutter version](#flutter-version) below).
+      3. Ensure Flutter is correctly configured by running `flutter doctor`.
+      4. Start the app with `flutter run`, or from your IDE.
 
 
 ### Flutter version
